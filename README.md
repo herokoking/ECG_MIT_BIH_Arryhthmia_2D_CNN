@@ -24,10 +24,10 @@ python predict.py
 
 ### ECG Classes
 ![NOR](./NOR.png "NOR")
-![avatar](./APC.png)
-![avatar](./LBBB.png)
-![avatar](./RBBB.png)
-![avatar](./PAB.png)
-![avatar](./PVC.png)
-![avatar](./VEB.png)
-![avatar](./VFE.png)
+![APC](./APC.png)
+![LBBB](./LBBB.png)
+![RBBB](./RBBB.png)
+![PAB](./PAB.png)
+![PVC](./PVC.png)
+![VEB](./VEB.png)
+![VFE](./VFE.png)
