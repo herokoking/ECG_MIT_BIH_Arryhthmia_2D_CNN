@@ -21,3 +21,6 @@ python split_train_test_dataset.py
 python train.py
 ## step 5
 python predict.py
+
+### ECG Classes
+![avatar](./*.png)
