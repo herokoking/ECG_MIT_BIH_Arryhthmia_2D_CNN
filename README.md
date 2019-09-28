@@ -23,4 +23,11 @@ python train.py
 python predict.py
 
 ### ECG Classes
-![avatar](./*.png)
+![avatar](./NOR.png)
+![avatar](./APC.png)
+![avatar](./LBBB.png)
+![avatar](./RBBB.png)
+![avatar](./PAB.png)
+![avatar](./PVC.png)
+![avatar](./VEB.png)
+![avatar](./VFE.png)
