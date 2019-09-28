@@ -23,7 +23,7 @@ python train.py
 python predict.py
 
 ### ECG Classes
-![avatar](./NOR.png "NOR")
+![NOR](./NOR.png "NOR")
 ![avatar](./APC.png)
 ![avatar](./LBBB.png)
 ![avatar](./RBBB.png)
